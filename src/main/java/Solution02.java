@@ -2,8 +2,9 @@ import java.util.Scanner;
 
 public class Solution02 {
     /* Create a program
+    Scanner input = new scanner for input string
     print 'What is the input string? '
-    String 'str' = scan in input string
+    String 'str' = scan in input string using input scanner
     int 'ch' = 0 to count num characters
     for(iterate through string to count characters, get length of string)
         'ch'++ for every character
